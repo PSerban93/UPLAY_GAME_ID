@@ -55,6 +55,7 @@ List of GAME ID's in Uplay by Ubisoft
 11373 - Discovery Tour: Ancient Egypt by Assassin’s Creed (Steam)  
 13504 - Assassin's Creed® Valhalla  
 19000 - Discovery Tour: Viking Age by Ubisoft  
+65043 - Assassin's Creed Black Flag Resynced  
 
 # FAR CRY Franchise
 46 - Far Cry® 3  
@@ -139,6 +140,8 @@ List of GAME ID's in Uplay by Ubisoft
 89 - Anno 1404  
 678 - ANNO 2070® Complete Edition  
 680 - Anno 2070 RUS  
+921 - Anno 117 : Pax Romana (Uplay Connect)  
+922 - Anno 117: Pax Romana (Steam)  
 1253 - Anno 2205  
 2990 - Anno 1602  
 4553 - Anno 1800 (Uplay)  
@@ -155,9 +158,10 @@ List of GAME ID's in Uplay by Ubisoft
 507 - The Crew (Russian)  
 665 - The Crew 2 (Steam Version)  
 750 - The Crew (Beta)  
-922 - The Crew Motorfest (Steam)  
 2855 - The Crew 2 (Uplay Connect)  
 5037 - The Crew 2  
+16732 - The Crew Motorfest (Uplay Connect)  
+63500 - The Crew Motorfest Trial  
 
 # The Settlers Franchise
 8 - The Settlers 7: Paths to a Kingdom  
@@ -297,6 +301,7 @@ List of GAME ID's in Uplay by Ubisoft
 5705 - Scott Pilgrim vs the World: The Game  
 5726 - Immortal Fenyx Rising™ Demo  
 5870 - Hungry Shark World  
+5880 - Beyond Good and Evil - 20th Anniversary Edition  
 6116 - The Last Friend  
 6150 - Skull and Bones Open Beta Closed Beta  
 9662 - Valiant Hearts: Coming Home  
