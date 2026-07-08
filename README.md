@@ -3,6 +3,7 @@ List of GAME ID's in Uplay by Ubisoft
 
 # Assassin's Creed Franchise
 4 - Assassin's Creed II  
+5481 - Assassin's Creed 2 (Uplay Connect)
 26 - Assassin's Creed Brotherhood  
 40 - Assassin's Creed® Revelations  
 54 - Assassin's Creed® III  
@@ -101,10 +102,14 @@ List of GAME ID's in Uplay by Ubisoft
 108 - Tom Clancy's Rainbow Six® Vegas 2  
 109 - Tom Clancy's Splinter Cell  
 110 - Tom Clancy's Splinter Cell Double Age  
+314 - Tom Clancy's Splinter Cell Pandora Tomorrow (Uplay Connect)  
 358 - Tom Clancy's Rainbow Six® Lockdown  
+444 - Tom Clancy's Splinter Cell Blacklist (Uplay Connect)  
 449 - Tom Clancy's Splinter Cell Blacklist (Steam)  
 568 - Tom Clancy's The Division™  
 635 - Tom Clancy's Rainbow Six® Siege  
+674 - Tom Clancy's Ghost Recon Future Soldier (Uplay Connect)  
+8000 - Tom Clancy's The Division Resurgence (Uplay Connect)  
 1771 - Tom Clancy's Ghost Recon® Wildlands  
 2970 - Tom Clancy's Ghost Recon® Wildlands (Open Beta)  
 1835 - Tom Clancy's The Division™ (RU)  
@@ -186,6 +191,7 @@ List of GAME ID's in Uplay by Ubisoft
 2968 - Rayman Forever  
 5850 - Rayman Jungle Run  
 5860 - Rayman Fiesta Run  
+6220 - Rayman 30th Anniversary Edition (Uplay Connect)  
 61578 - Rabbids: Party of Legends  
 
 # Might and Magic Franchise
@@ -201,6 +207,7 @@ List of GAME ID's in Uplay by Ubisoft
 401 - Might & Magic X Legacy (Uplay)  
 402 - Might & Magic X Legacy (Steam)  
 403 - Might & Magic X Legacy (Uplay+Steam)  
+426 - Might & Magic X Legacy (Uplay Connect)  
 1176 - Might & Magic Heroes VII  
 1177 - Might & Magic Heroes VII (Steam)  
 5042 - Might & Magic Heroes VI  
@@ -212,6 +219,7 @@ List of GAME ID's in Uplay by Ubisoft
 318 - Trials Fusion (Steam)  
 834 - Trials Fusion Demo (Steam)  
 1275 - Trials Fusion Multiplayer Beta  
+2741 - Trials of the Blood Dragon (Uplay Connect)  
 3301 - Trials of the Blood Dragon (Steam)  
 3600 - Trials Rising  
 3601 - Trials Rising  
@@ -262,6 +270,7 @@ List of GAME ID's in Uplay by Ubisoft
 699 - Silent Hunter 4 Wolves of the Pacific: U-Boat Missions (Uplay)  
 801 - Child of Light Demo  
 825 - Champions of Anteria  
+926 - Monopoly (Uplay Connect)  
 1653 - ZOMBI (Uplay)  
 1713 - Skull and Bones  
 1832 - Zombi (Uplay+Steam)  
@@ -299,6 +308,7 @@ List of GAME ID's in Uplay by Ubisoft
 5487 - Riders Republic  
 5595 - Trackmania  
 5705 - Scott Pilgrim vs the World: The Game  
+5776 - BattleCore Arena (Uplay Connect)  
 5726 - Immortal Fenyx Rising™ Demo  
 5870 - Hungry Shark World  
 5880 - Beyond Good and Evil - 20th Anniversary Edition  
@@ -312,8 +322,10 @@ List of GAME ID's in Uplay by Ubisoft
 11899 - Roller Champions  
 11957 - Hyper Scape  
 15657 - XDefiant Closed Beta  
+16382 - Brawlhalla (Uplay Connect)  
 17903 - Star Wars: Outlaws  
 17905 - Monopoly Madness  
+17965 - OddBallers (Uplay Connect)  
 60951 - Project U  
 61432 - Fell Seal: Arbiter's Mark  
 61499 - Evan's Remains  
