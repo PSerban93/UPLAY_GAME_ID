@@ -5,7 +5,7 @@ List of GAME ID's in Uplay by Ubisoft
 # Assassin's Creed Franchise
 
 4 - Assassin's Creed II  
-5481 - Assassin's Creed 2 (Uplay Connect)
+5481 - Assassin's Creed 2 (Uplay Connect)  
 26 - Assassin's Creed Brotherhood  
 40 - Assassin's Creed® Revelations  
 54 - Assassin's Creed® III  
