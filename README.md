@@ -106,8 +106,8 @@ List of GAME ID's in Uplay by Ubisoft
 95 - Tom Clancy's Splinter Cell Chaos Theory™  
 108 - Tom Clancy's Rainbow Six® Vegas 2  
 109 - Tom Clancy's Splinter Cell  
-110 - Tom Clancy's Splinter Cell Double Agent
-314 - Tom Clancy's Splinter Cell Pandora Tomorrow (Uplay Connect)  
+110 - Tom Clancy's Splinter Cell Double Agent  
+314 - Tom Clancy's Splinter Cell Pandora Tomorrow (Uplay Connect)
 358 - Tom Clancy's Rainbow Six® Lockdown  
 444 - Tom Clancy's Splinter Cell Blacklist (Uplay Connect)  
 449 - Tom Clancy's Splinter Cell Blacklist (Steam)  
