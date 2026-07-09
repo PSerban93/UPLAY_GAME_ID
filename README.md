@@ -1,7 +1,9 @@
 # UPLAY_GAME_ID
+
 List of GAME ID's in Uplay by Ubisoft
 
 # Assassin's Creed Franchise
+
 4 - Assassin's Creed II  
 5481 - Assassin's Creed 2 (Uplay Connect)
 26 - Assassin's Creed Brotherhood  
@@ -56,9 +58,10 @@ List of GAME ID's in Uplay by Ubisoft
 11373 - Discovery Tour: Ancient Egypt by Assassin’s Creed (Steam)  
 13504 - Assassin's Creed® Valhalla  
 19000 - Discovery Tour: Viking Age by Ubisoft  
-65043 - Assassin's Creed Black Flag Resynced  
+65043 - Assassin's Creed Black Flag Resynced
 
 # FAR CRY Franchise
+
 46 - Far Cry® 3  
 84 - Far Cry  
 85 - Far Cry 2  
@@ -77,9 +80,10 @@ List of GAME ID's in Uplay by Ubisoft
 17772 - Far Cry® 6 Episode 1 Insanity DLC  
 17773 - Far Cry® 6 Episode 2 Pagan: Control DLC  
 17774 - Far Cry® 6 Episode 3 Joseph: Collapse DLC  
-19028 - Far Cry® 6 Offline Mode "DLC"  
+19028 - Far Cry® 6 Offline Mode "DLC"
 
 # Watch_Dogs Franchise
+
 274 - Watch_Dogs  
 541 - Watch_Dogs (Steam)  
 543 - Watch_Dogs (RU)  
@@ -90,9 +94,10 @@ List of GAME ID's in Uplay by Ubisoft
 2688 - WATCH_DOGS® 2  
 3353 - Watch Dogs: Legion  
 3619 - WATCH_DOGS® 2 (Steam)  
-7017 - Watch Dogs: Legion (Steam)  
+7017 - Watch Dogs: Legion (Steam)
 
 # Tom Clancy's Franchise
+
 2 - Tom Clancy's Splinter Cell Conviction  
 53 - Tom Clancy's Ghost Recon Future Soldier  
 83 - Tom Clancy's EndWar  
@@ -101,7 +106,7 @@ List of GAME ID's in Uplay by Ubisoft
 95 - Tom Clancy's Splinter Cell Chaos Theory™  
 108 - Tom Clancy's Rainbow Six® Vegas 2  
 109 - Tom Clancy's Splinter Cell  
-110 - Tom Clancy's Splinter Cell Double Age  
+110 - Tom Clancy's Splinter Cell Double Agent
 314 - Tom Clancy's Splinter Cell Pandora Tomorrow (Uplay Connect)  
 358 - Tom Clancy's Rainbow Six® Lockdown  
 444 - Tom Clancy's Splinter Cell Blacklist (Uplay Connect)  
@@ -128,18 +133,20 @@ List of GAME ID's in Uplay by Ubisoft
 5271 - Tom Clancy's Rainbow Six® Extraction  
 10424 - Tom Clancy's Rainbow Six® Siege Test Server (Steam)  
 11903 - Tom Clancy's Ghost Recon® Breakpoint  
-12737 - Tom Clancy's Ghost Recon® Breakpoint (Uplay Open + Closed Beta)  
+12737 - Tom Clancy's Ghost Recon® Breakpoint (Uplay Open + Closed Beta)
 
 # Prince of Persia Franchise
+
 11 - Prince of Persia® The Forgotten Sands™  
 111 - Prince of Persia: The Sands of Time™  
 113 - Prince of Persia: The Two Thrones™  
 121 - Prince of Persia: Warrior Within  
 277 - Prince of Persia (2008)  
 6145 - Prince of Persia: The Lost Crown  
-8005 - The Rogue Prince of Persia  
+8005 - The Rogue Prince of Persia
 
 # Anno Franchise
+
 22 - Anno 2070  
 71 - Anno 2070 (Steam)  
 89 - Anno 1404  
@@ -156,9 +163,10 @@ List of GAME ID's in Uplay by Ubisoft
 16232 - Anno 1404 - History Edition  
 16234 - Anno 1503 - History Edition  
 16236 - Anno 1602 - History Edition  
-16238 - Anno 1701 - History Edition  
+16238 - Anno 1701 - History Edition
 
 # The Crew Franchise
+
 413 - The Crew (Worldwide)  
 507 - The Crew (Russian)  
 665 - The Crew 2 (Steam Version)  
@@ -166,9 +174,10 @@ List of GAME ID's in Uplay by Ubisoft
 2855 - The Crew 2 (Uplay Connect)  
 5037 - The Crew 2  
 16732 - The Crew Motorfest (Uplay Connect)  
-63500 - The Crew Motorfest Trial  
+63500 - The Crew Motorfest Trial
 
 # The Settlers Franchise
+
 8 - The Settlers 7: Paths to a Kingdom  
 18 - The Settlers Online  
 3037 - The Settlers - New Allies  
@@ -178,9 +187,10 @@ List of GAME ID's in Uplay by Ubisoft
 11785 - The Settlers 4 - History Edition  
 11786 - The Settlers 5: Heritage of Kings - History Edition  
 11787 - The Settlers 6 - History Edition  
-11788 - The Settlers 7: Paths to a Kingdom - History Edition  
+11788 - The Settlers 7: Paths to a Kingdom - History Edition
 
 # Rayman Franchise
+
 80 - Rayman Origins  
 360 - Rayman® 3 Hoodlum Havoc®  
 361 - Rayman® 2 The Great Escape  
@@ -192,9 +202,10 @@ List of GAME ID's in Uplay by Ubisoft
 5850 - Rayman Jungle Run  
 5860 - Rayman Fiesta Run  
 6220 - Rayman 30th Anniversary Edition (Uplay Connect)  
-61578 - Rabbids: Party of Legends  
+61578 - Rabbids: Party of Legends
 
 # Might and Magic Franchise
+
 44 - Might & Magic Heroes VI  
 64 - Might & Magic® VI-Pack  
 87 - Heroes of Might and Magic V  
@@ -211,9 +222,10 @@ List of GAME ID's in Uplay by Ubisoft
 1176 - Might & Magic Heroes VII  
 1177 - Might & Magic Heroes VII (Steam)  
 5042 - Might & Magic Heroes VI  
-5613 - Might & Magic - Chess Royale  
+5613 - Might & Magic - Chess Royale
 
 # Trials Franchise
+
 78 - Trials Evolution: Gold Edition  
 297 - Trials Fusion  
 318 - Trials Fusion (Steam)  
@@ -224,9 +236,10 @@ List of GAME ID's in Uplay by Ubisoft
 3600 - Trials Rising  
 3601 - Trials Rising  
 5233 - Trials Rising - Open Beta  
-5454 - Trials® Rising Demo  
+5454 - Trials® Rising Demo
 
 # UNO
+
 3352 - UNO (Uplay)  
 3360 - UNO (Uplay+Steam)  
 3361 - UNO Demo  
@@ -237,9 +250,10 @@ List of GAME ID's in Uplay by Ubisoft
 17860 - UNO - Fenyx's Quest Theme Cards  
 17942 - UNO - 50th Anniversary Theme Cards  
 59689 - UNO - The Call of Yara Theme Cards  
-60710 - UNO - AC Valhalla Theme Cards  
+60710 - UNO - AC Valhalla Theme Cards
 
 # Other
+
 3 - Silent Hunter®: Battle of the Atlantic Gold Edition  
 5 - Trial Rising Demo  
 13 - Driver: San Francisco  
@@ -334,10 +348,11 @@ List of GAME ID's in Uplay by Ubisoft
 61517 - A Normal Lost Phone  
 62326 - Immortals Fenyx Rising (Steam)  
 64181 - Star Wars: Outlaws (Steam)  
-65601 - Star Wars Outlaws (Demo)  
+65601 - Star Wars Outlaws (Demo)
 
 # To be verified
+
 276 - Prince of Persia  
-2052 - Anno 2205 (unknown Version)  
+2052 - Anno 2205 (unknown Version)
 
 More: https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt
