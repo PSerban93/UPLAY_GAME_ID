@@ -70,6 +70,7 @@ List of GAME ID's in Uplay by Ubisoft
 420 - Far Cry® 4  
 856 - Far Cry® 4 (Steam version/Australia)  
 969 - Far Cry 4 RU  
+971 - Far Cry 4 (unknown version)  
 1803 - Far Cry® 5  
 4311 - Far Cry® 5 (Steam Version)  
 2010 - Far Cry® Primal  
@@ -153,6 +154,7 @@ List of GAME ID's in Uplay by Ubisoft
 89 - Anno 1404  
 678 - ANNO 2070® Complete Edition  
 680 - Anno 2070 RUS  
+2052 - Anno 2205  
 921 - Anno 117 : Pax Romana (Uplay Connect)  
 922 - Anno 117: Pax Romana (Steam)  
 1253 - Anno 2205  
@@ -319,7 +321,7 @@ List of GAME ID's in Uplay by Ubisoft
 5277 - Starlink: Battle For Atlas  
 5405 - Immortals Fenyx Rising  
 5408 - Rabbits Coding!  
-5480 - Riders Republic (Steam)  
+5780 - Riders Republic (Steam)  
 5487 - Riders Republic  
 5595 - Trackmania  
 5705 - Scott Pilgrim vs the World: The Game  
@@ -339,6 +341,8 @@ List of GAME ID's in Uplay by Ubisoft
 15657 - XDefiant Closed Beta  
 16382 - Brawlhalla (Uplay Connect)  
 17903 - Star Wars: Outlaws  
+64181 - Star Wars: Outlaws (Steam)  
+65601 - Star Wars Outlaws (Demo)  
 17905 - Monopoly Madness  
 17965 - OddBallers (Uplay Connect)  
 60951 - Project U  
@@ -347,13 +351,10 @@ List of GAME ID's in Uplay by Ubisoft
 61503 - Astrologaster  
 61515 - Lake  
 61517 - A Normal Lost Phone  
-62326 - Immortals Fenyx Rising (Steam)  
-64181 - Star Wars: Outlaws (Steam)  
-65601 - Star Wars Outlaws (Demo)
+62326 - Immortals Fenyx Rising (Steam)
 
 # To be verified
 
-276 - Prince of Persia  
-2052 - Anno 2205 (unknown Version)
+276 - Prince of Persia
 
 More: https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt

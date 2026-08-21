@@ -1,0 +1,7 @@
+# Local automation and generated data. README.md is the only published output.
+.github/
+AUTOMATION.md
+data/
+package.json
+run-all-updates.bat
+scripts/
